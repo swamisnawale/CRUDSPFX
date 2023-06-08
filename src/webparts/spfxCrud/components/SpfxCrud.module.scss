@@ -1,0 +1,25 @@
+@import "~@fluentui/react/dist/sass/References.scss";
+
+.spfx-crud {
+  background-color: white;
+}
+// .spfx-crud * {
+//   margin: 0;
+//   padding: 0;
+// }
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 15px;
+}
